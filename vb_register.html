@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
+	<head>
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+        <title>ViciosBrothers - Cadastro</title>
+        <meta http-equiv="Content-Language" content="pt-br" />
+
+        <meta http-equiv="imagetoolbar" content="no" />
+        <meta name="MSSmartTagsPreventParsing" content="true" />
+
+        <meta name="description" content="ViciosBrothers é um portal para discussões sobre jogos de vários gêneros." />
+        <meta name="keywords" content="Jogos, turorial, video, wallpaper, warcraft, dota, dofus, perfect world" />
+
+        <meta name="author" content="David Cardoso" />
+
+		<link rel="icon" href="images/headers/pageicon.ico" type="image/ico" />
+        <link rel="stylesheet" type="text/css" href="css/vb.css" />
+	</head>
+
+	<body class="register" title="ViciosBrothers">
+
+		<div id="page-container">
+			<div id="header">
+				<h1 class="hidden">VB - Cadastro</h1>
+				<img src="images/headers/logo.gif" alt="ViciosBrothers"/>
+				<p>O vício de hoje pode se tornar a virtude de amanhã!</p>
+			</div>
+			
+			<div id="main-nav">
+				<ul class="main-nav">
+					<li id="home"><a href="index.html" title="Página inicial" tabindex="3"><img src="images/main-nav/home.jpg" alt="Página Inicial"/><span class="hover"><img src="images/main-nav/homehover.jpg" alt="Página Inicial"/></span></a></li>
+					<li id="tuto"><a href="vb_tuto.html" title="Tutoriais" tabindex="4"><img src="images/main-nav/tuto.jpg" alt="Tutoriais"/><span class="hover"><img src="images/main-nav/tutohover.jpg" alt="Tutoriais"/></span></a><li>
+					<li id="video"><a href="vb_video.html" title="Vídeos" tabindex="5"><img src="images/main-nav/videos.jpg" alt="Vídeos"/><span class="hover"><img src="images/main-nav/videoshover.jpg" alt="Vídeos"/></span></a></li>
+					<li id="wallpapers"><a href="vb_wallpapers.html" title="Papéis de parede" tabindex="6"><img src="images/main-nav/wallpapers.jpg" alt="Wallpapers"/><span class="hover"><img src="images/main-nav/wallpapershover.jpg" alt="Wallpapers"/></span></a></li>
+					<li id="register"><a href="vb_register.html" title="Cadastre-se" tabindex="1"><img src="images/main-nav/register.jpg" alt="Cadastre-se"/><span class="hover"><img src="images/main-nav/registerhover.jpg" alt="Cadastre-se"/></span></a></li>
+					<li id="bbook"><a href="vb_bbook.html" title="Fotos dos Amigos" tabindex="2"><img src="images/main-nav/bbook.jpg" alt="BrothersBook"/><span class="hover"><img src="images/main-nav/bbookhover.jpg" alt="Álbum dos Amigos"/></span></a></li>
+				</ul>
+			</div>
+			
+			<div id="corpo">
+				<div id="sidebar-a">
+					<a title="MaisWeb - Cursos Online" href="http://www.maisweb.org/" target="_blank"><img src="images/sidebar-a/maisweb.png" alt="Logo do MaisWeb"></a><br>
+					<a title="VB no Orkut" href="http://www.orkut.com.br/Community.aspx?cmm=57007449" target="_blank"><img src="images/sidebar-a/orkut_logo.png" alt="VB no Orkut" /></a><br>
+					<img src="images/sidebar-a/banana.gif" alt="HAHAHAHA" />
+				</div>
+			
+				<div id="content">
+					<div id="cadastro">
+						<p>
+							OBS.: A participação na nossa  <a href="http://www.orkut.com.br/Community.aspx?cmm=57007449" target="_blank">Comunidade</a> é necessária para efetivar o cadastramento.
+						</p>
+
+						<form id="myForm" name="myForm" method="post" action="javascript: verificarForm()">
+							<fieldset class="fieldset">
+								<legend>DADOS PESSOAIS</legend>
+
+								<label for="nome">Nome: </label><input type="text" name="Nome" id="nome" title="Nome." required=""><br>
+								<label for="sobrenome">Sobrenome: </label><input type="text" name="Sobrenome" id="sobrenome" title="Sobrenome." ><br>
+								<label for="idade">Data Nasc.: </label><input type="date" name="Idade" id="idade" title="Idade." ><br>
+								<label for="sexo">Sexo: </label>
+								<select name="sexo" id="sexo" title="Sexo.">
+									<option value="opçãosexo0" selected="selected">---</option>
+									<option value="opçãosexo1">Masculino</option>
+									<option value="opçãosexo2">Feminino</option>
+								</select><br>
+								<label for="cidade">Cidade: </label><input type="text" name="Cidade" id="cidade" title="Cidade." ><br>
+								<label for="estados">UF: </label>
+								<select name="Estados" id="estados" title="Estado." >
+									<option value="0" selected="selected">---</option>
+									<option value="1">AC</option>
+									<option value="2">AL</option>
+									<option value="3">AM</option>
+									<option value="4">AP</option>
+									<option value="5">BA</option>
+									<option value="6">CE</option>
+									<option value="7">DF</option>
+									<option value="8">ES</option>
+									<option value="9">GO</option>
+									<option value="10">MA</option>
+									<option value="11">MG</option>
+									<option value="12">MS</option>
+									<option value="13">MT</option>
+									<option value="14">PA</option>
+									<option value="15">PB</option>
+									<option value="16">PE</option>
+									<option value="17">PI</option>
+									<option value="18">PR</option>
+									<option value="19">RJ</option>
+									<option value="20">RN</option>
+									<option value="21">RO</option>
+									<option value="22">RR</option>
+									<option value="23">RS</option>
+									<option value="24">SC</option>
+									<option value="25">SE</option>
+									<option value="26">SP</option>
+									<option value="27">TO</option>
+								</select><br>
+								<label for="telefone">Telefone: </label><input type="tel" name="Telefone" id="telefone" maxlength="10" title="Telefone." placeholder="(84) 9999-9999" /><br>
+								<label for="email">E-mail: </label><input type="email" name="E-mail" id="email" title="E-mail." ><br>
+							</fieldset>
+
+							<fieldset>
+								<legend>DADOS DO USUÁRIO</legend>
+								<label for="usuario">Usuário: </label><input type="text" name="Usuário" id="usuario" maxlength="15" title="Usuário." placeholder="máximo de 15 caracteres" /><br>
+								<label for="senha">Senha: </label><input type="password" name="Senha" id="senha" maxlength="15" title="Senha." ><br>
+								<label for="rsenha">Repita a senha: </label><input type="password" name="Repetir senha" id="rsenha" maxlength="15" title="Repita a Senha." ><br>
+								<label for="psecreta">Pergunta secreta: </label>
+									<select name="Pergunta secreta" id="psecreta" title="Pergunta Secreta" >
+										<option value="oppsecreta0" selected="selected">---</option>
+										<option value="oppsecreta1">Qual o nome da sua cidade natal?</option>
+										<option value="oppsecreta2">Qual o nome do seu primeiro cachorro?</option>
+										<option value="oppsecreta3">Para qual time você torce?</option>
+										<option value="oppsecreta4">Qual carro você mais gosta?</option>
+									</select><br>
+								<label for="rsecreta">Resposta secreta: </label><input type="text" name="Resposta secreta" id="rsecreta" title="Resposta secreta." ><br>
+							</fieldset>
+
+							<fieldset>
+								<legend>CONFIRMAÇÃO</legend>
+								<a target="_blank" href="http://www.orkut.com.br/CommMsgs.aspx?cmm=57007449&tid=5214348862977534538&na=4"  title="Clique aqui para ler os termos.">Leia aqui os Termos de Uso.</a><br>
+								<input type="checkbox" name="Termos" id="termos"  title="Li os termos." ><label for="termos" id="ltermos">"Li e concordo com os termos do site."</label><br>
+								<input value="Concluir Cadastro" type="submit" class="btn_sub" title="Enviar cadastro." onclick="">
+								<input value="Limpar" type="reset" title="Limpar todos os campos.">
+							</fieldset>
+
+							<input type="hidden" name="usuario" value="viciosbrothers">
+
+							<!-- Option 1 -->
+							<input type="hidden" name="subject" value="CadastrosViciosBrothers">
+
+							<!-- Option 2 -->
+							<input type="hidden" name="next_url" value="http://geocities.yahoo.com.br/viciosbrothers/index.html">
+
+							<!-- Option 3 -->
+							<input type="hidden" name="fields" value="nome,email,usuario,senha,rsenha,psecreta,rsecreta,termos">
+		
+						</form>
+					</div>
+				</div>
+			
+				<div id="footer">
+					<div id="altnav">
+						<a title="Sobre" href="index.html">Sobre</a> |
+						<a title="Serviços" href="">Serviços</a> |
+						<a title="Fale Conosco!" href="vb_fconosco.html">Fale Conosco!</a> |
+						<a title="Termos de Uso" href="http://www.orkut.com.br/CommMsgs.aspx?cmm=57007449&tid=5214348862977534538&na=4" target="_blank">Termos de Uso</a>
+					</div>
+					<div id="copyright">
+						ViciosBrothers - v1.0.3<br>
+				
+						Powered by <a title="Desenvolvedor & Webmaster"href="http://www.orkut.com.br/Profile.aspx?uid=945277223897305211" target="_blank">David Cardoso</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+	
+	<script type="text/javascript" src="js/jquery.js"></script>
+
+	<script type="text/javascript">
+		function verificarForm(){
+			var formulario = document.getElementById("myForm");
+			var qtd = formulario.elements.length;
+
+			for (var i=0; i<qtd; i++) {
+				if (formulario.elements[i].type == "text"  && formulario.elements[i].value == "") {
+					alert(formulario.elements[i].title)
+				}
+			}
+		}
+	</script>
+
+</html>

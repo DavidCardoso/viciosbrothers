@@ -1,0 +1,1426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"carre",
+				"carregaVetor"
+			],
+			[
+				"ani",
+				"animais"
+			],
+			[
+				"arg",
+				"arg_tipo"
+			],
+			[
+				"arg_",
+				"arg_classe"
+			],
+			[
+				"para",
+				"parametros"
+			],
+			[
+				"pat",
+				"path_exportar"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"clear",
+				"clearEntrada"
+			],
+			[
+				"func",
+				"funcionario"
+			],
+			[
+				"pessoa",
+				"pessoas"
+			],
+			[
+				"lis",
+				"lista_pessoas"
+			],
+			[
+				"it",
+				"it_animal"
+			],
+			[
+				"lista_",
+				"lista_animais"
+			],
+			[
+				"sear",
+				"searchPessoa"
+			],
+			[
+				"Rep",
+				"Reptil"
+			],
+			[
+				"Ma",
+				"MamiferoNativo"
+			],
+			[
+				"M",
+				"MamiferoExotico"
+			],
+			[
+				"Ave",
+				"AveNativo"
+			],
+			[
+				"Anfi",
+				"AnfibioNativo"
+			],
+			[
+				"inv",
+				"inválida"
+			],
+			[
+				"new",
+				"newAnimal"
+			],
+			[
+				"path",
+				"path_animais"
+			],
+			[
+				"pa",
+				"path_pessoas"
+			],
+			[
+				"pess",
+				"pessoas"
+			],
+			[
+				"save",
+				"saveInFiles"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"ve",
+				"veterinario"
+			],
+			[
+				"file",
+				"file_pessoas"
+			],
+			[
+				"rep",
+				"classe_reptil_nativo"
+			],
+			[
+				"mami",
+				"classe_mamifero_nativo"
+			],
+			[
+				"mam",
+				"classe_mamifero_exotico"
+			],
+			[
+				"ma",
+				"classe_mamifero"
+			],
+			[
+				"anfi",
+				"classe_anfibio_nativo"
+			],
+			[
+				"ave",
+				"classe_ave_nativo"
+			],
+			[
+				"classe_ave",
+				"classe_ave"
+			],
+			[
+				"anim",
+				"animal_nativo"
+			],
+			[
+				"animal",
+				"animal_silvestre"
+			],
+			[
+				"pesso",
+				"pessoa_veterinario"
+			],
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"E",
+				"ENTRY_DELETED"
+			],
+			[
+				"pes",
+				"pessoas"
+			],
+			[
+				"classe_ave_",
+				"classe_ave_exotico"
+			],
+			[
+				"ania",
+				"animal_exotico"
+			],
+			[
+				"classe",
+				"classe_mamifero_nativo"
+			],
+			[
+				"m_",
+				"m_tamanho_bico"
+			],
+			[
+				"tamo",
+				"tamanho_bico"
+			],
+			[
+				"en",
+				"envergadura"
+			],
+			[
+				"ta",
+				"tamanho_bico"
+			],
+			[
+				"uf",
+				"uf_origem"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"cp",
+				"m_cpf"
+			],
+			[
+				"nome",
+				"nome"
+			],
+			[
+				"m_i",
+				"m_id"
+			],
+			[
+				"Has",
+				"HashEntry"
+			],
+			[
+				"cla",
+				"classe_mamifero"
+			],
+			[
+				"a",
+				"animal_exotico"
+			],
+			[
+				"time",
+				"time_t"
+			],
+			[
+				"m_taxa",
+				"m_taxa_positiva"
+			],
+			[
+				"bo",
+				"book2"
+			],
+			[
+				"m_contas_",
+				"m_contas_corrente"
+			],
+			[
+				"Conta",
+				"ContaBancaria"
+			],
+			[
+				"m_qtd_contas_",
+				"m_qtd_contas_corrente"
+			],
+			[
+				"vv",
+				"vVoltagem"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"remove",
+				"removeNode"
+			],
+			[
+				"remo",
+				"removeNode"
+			],
+			[
+				"inser",
+				"insertBegin"
+			],
+			[
+				"set",
+				"setNext"
+			],
+			[
+				"Link",
+				"linkedlist"
+			],
+			[
+				"m_sa",
+				"m_status"
+			],
+			[
+				"li",
+				"m_limitedisponivel"
+			],
+			[
+				"m_li",
+				"m_limitedisponivel"
+			],
+			[
+				"ts",
+				"ts_NaoEspecial"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Ti",
+				"TipoStatus"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"edn",
+				"endl"
+			],
+			[
+				"m",
+				"m_inicio"
+			],
+			[
+				"Li",
+				"Listar"
+			],
+			[
+				"no",
+				"novo"
+			],
+			[
+				"InserirN",
+				"InserirNaPosicao"
+			],
+			[
+				"Inse",
+				"InserirNoFinal"
+			],
+			[
+				"Lis",
+				"ListaSimplesmenteEncadeada"
+			],
+			[
+				"read",
+				"readline〔function〕"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"__",
+				"__len__"
+			],
+			[
+				"print",
+				"printExampleArgs〔function〕"
+			],
+			[
+				"ARG",
+				"ARG_PATH〔variable〕"
+			],
+			[
+				"dir",
+				"diretório"
+			],
+			[
+				"ini",
+				"inexistentes"
+			],
+			[
+				"dire",
+				"diretório"
+			],
+			[
+				"op",
+				"opção"
+			],
+			[
+				"rastre",
+				"rastreio"
+			],
+			[
+				"AR",
+				"ARG_PATH〔variable〕"
+			],
+			[
+				"guarda",
+				"guarda.py"
+			],
+			[
+				"ha",
+				"hashing"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"hash",
+				"hashing"
+			],
+			[
+				"sha",
+				"sha512"
+			],
+			[
+				"AL",
+				"ALTER_ALFA〔variable〕"
+			],
+			[
+				"dh",
+				"dh_b〔variable〕"
+			],
+			[
+				"cal",
+				"calcKeySession〔function〕"
+			],
+			[
+				"O",
+				"Other_PUB"
+			],
+			[
+				"dh_",
+				"dh_c"
+			],
+			[
+				"calc",
+				"calcKeySession"
+			],
+			[
+				"sef",
+				"self.My_PUB"
+			],
+			[
+				"ca",
+				"calcKeySession"
+			],
+			[
+				"PU",
+				"PUB_GROUP"
+			],
+			[
+				"My",
+				"My_PUB〔variable〕"
+			],
+			[
+				"MY",
+				"My_PVT〔variable〕"
+			],
+			[
+				"mensa",
+				"mensagens"
+			],
+			[
+				"NO",
+				"NORMAL〔variable〕"
+			],
+			[
+				"ALTER",
+				"ALTER_PRIMO〔variable〕"
+			],
+			[
+				"cl",
+				"calcPub〔function〕"
+			],
+			[
+				"ALT",
+				"ALTER_PRIMO〔variable〕"
+			],
+			[
+				"data",
+				"data_readable〔variable〕"
+			],
+			[
+				"crip",
+				"criptossistemas"
+			],
+			[
+				"cript",
+				"criptossistema"
+			],
+			[
+				"cri",
+				"criptossistemas"
+			],
+			[
+				"alter",
+				"alterPass〔function〕"
+			],
+			[
+				"A",
+				"ALTER_PASS_DH"
+			],
+			[
+				"ALE",
+				"ALTER_PASS〔variable〕"
+			],
+			[
+				"T",
+				"TipoMov"
+			],
+			[
+				"DIffi",
+				"DiffieHellman"
+			],
+			[
+				"not",
+				"notifyDH〔function〕"
+			],
+			[
+				"troca",
+				"trocaCript"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vb_wallpapers.html",
+			"settings":
+			{
+				"buffer_size": 6520,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "commi",
+		"selected_items":
+		[
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"run",
+				"Build With: C++11 - Run"
+			],
+			[
+				"c++",
+				"Set Syntax: C++11"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"add ",
+				"Git: Add All"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"all",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"com\t",
+				"Git: Commit"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"commt",
+				"Git: Commit"
+			],
+			[
+				"git comi",
+				"Git: Commit history"
+			],
+			[
+				"set c",
+				"Set Syntax: C++11"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet: ",
+				"Snippet: struct"
+			],
+			[
+				"Alignme",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"termi",
+				"Terminal: Open"
+			],
+			[
+				"packac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/vb",
+		"/var/www/html/vb/images"
+	],
+	"file_history":
+	[
+		"/var/www/html/vb/index.html",
+		"/var/www/html/vb/vb_bbook.html",
+		"/var/www/html/vb/vb_register.html",
+		"/var/www/html/vb/vb_fconosco.html",
+		"/var/www/html/vb/vb_tuto.html",
+		"/var/www/html/vb/vb_video.html",
+		"/var/www/html/vb/vb_wallpapers.html",
+		"/var/www/html/vb/vb_wallpapers2.html",
+		"/var/www/html/vb/vb_wallpapers3.html",
+		"/var/www/html/vb/viciosbrothers.html",
+		"/var/www/html/vb/css/vb.css",
+		"/var/www/html/vb/js/jquery.js",
+		"/var/www/html/ft/relatorios/control/exportacaodirf.php",
+		"/home/david/UFRN/DevIMD/db/bkps/dbintegraimd_20170310_2045.sql",
+		"/var/www/html/info.php",
+		"/var/www/html/ft/relatorios/dirf.php",
+		"/var/www/html/ft/_funcs.php",
+		"/home/david/web/sigap-app/controllers/cad/ContrController.php",
+		"/home/david/web/sigap-app/controllers/AcessosController.php",
+		"/home/david/web/sigap-app/controllers/IndexController.php",
+		"/home/david/web/sigap-app/controllers/ModulosController.php",
+		"/home/david/web/sigap-app/controllers/mov/SolController.php",
+		"/home/david/web/sigap-app/views/sol/start.tpl",
+		"/home/david/imd0030-projeto3/src/petfera/exportar.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/auxiliar.cpp",
+		"/home/david/imd0030-projeto3/data/petfera/animais.csv",
+		"/home/david/imd0030-projeto3/makefile",
+		"/home/david/Downloads/ALMOX TERSAB  - diferenca 06 2016",
+		"/home/david/Downloads/ALMOX TERSAB  - diferenca 06 2016.pdf",
+		"/home/david/imd0030/avaliacao3/questao01/main.cpp",
+		"/home/david/imd0030/avaliacao3/questao01/vector_error.h",
+		"/home/david/imd0030/aula34 - Tratamento de excecao/excecoes.cpp",
+		"/home/david/imd0030/aula34 - Tratamento de excecao/teste.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/pessoa_veterinario.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/animal.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/animal_exotico.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/animal_nativo.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_ave.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_ave_nativo.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/pessoa_tratador.cpp",
+		"/home/david/imd0030-projeto3/documentation/doc/animal_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal__exotico_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal__nativo_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__ave_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__ave__nativo_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa__tratador_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa__veterinario_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal__exotico_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal__nativo_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal__silvestre_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/animal__silvestre_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/aux_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/aux_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__anfibio_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__anfibio_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__anfibio__exotico_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__anfibio__exotico_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__anfibio__nativo_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__anfibio__nativo_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__ave_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__ave__exotico_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__ave__exotico_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__ave__nativo_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__mamifero_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__mamifero_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__mamifero__exotico_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__mamifero__exotico_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__mamifero__nativo_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__mamifero__nativo_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__reptil_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__reptil_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__reptil__exotico_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__reptil__exotico_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__reptil__nativo_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/classe__reptil__nativo_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa__funcionario_8cpp.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa__funcionario_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa__tratador_8h.html",
+		"/home/david/imd0030-projeto3/documentation/doc/pessoa__veterinario_8h.html",
+		"/home/david/imd0030-projeto3/imd0030-projeto3.sublime-project",
+		"/home/david/imd0030-projeto3/include/petfera/animal.h",
+		"/home/david/imd0030-projeto3/include/petfera/animal_exotico.h",
+		"/home/david/imd0030-projeto3/include/petfera/animal_nativo.h",
+		"/home/david/imd0030-projeto3/include/petfera/animal_silvestre.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_anfibio.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_anfibio_exotico.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_anfibio_nativo.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_ave.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_ave_exotico.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_ave_nativo.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_mamifero.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_mamifero_exotico.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_mamifero_nativo.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_reptil.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_reptil_exotico.h",
+		"/home/david/imd0030-projeto3/include/petfera/classe_reptil_nativo.h",
+		"/home/david/imd0030-projeto3/include/petfera/pessoa.h",
+		"/home/david/imd0030-projeto3/include/petfera/pessoa_funcionario.h",
+		"/home/david/imd0030-projeto3/include/petfera/pessoa_tratador.h",
+		"/home/david/imd0030-projeto3/include/petfera/pessoa_veterinario.h",
+		"/home/david/imd0030-projeto3/src/petfera/animal_silvestre.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_anfibio.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_anfibio_exotico.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_anfibio_nativo.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_ave_exotico.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_mamifero.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_mamifero_exotico.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_mamifero_nativo.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_reptil.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_reptil_exotico.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/classe_reptil_nativo.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/pessoa.cpp",
+		"/home/david/imd0030-projeto3/src/petfera/pessoa_funcionario.cpp",
+		"/home/david/imd0030-projeto3/include/petfera/auxiliar.h",
+		"/home/david/imd0030-projeto3/README.md",
+		"/home/david/imd0030-projeto3/data/petfera/exportar.csv",
+		"/home/david/imd0030-projeto3/data/petfera/pessoas.csv",
+		"/home/david/imd0030-projeto3/src/petfera/main.cpp",
+		"/home/david/imd0030/aula31 - Bibliotecas/code_lib/src/main.cpp",
+		"/home/david/imd0030/aula31 - Bibliotecas/code_lib/Makefile",
+		"/home/david/imd0030-projeto3/documentation/Relatório - Projeto 2 - IMD0030 LP1 BTI UFRN.pdf",
+		"/home/david/imd0030-projeto3/_README.md",
+		"/home/david/imd0030-projeto3/Doxyfile",
+		"/home/david/Downloads/Scripts para gerar tabelas.sql",
+		"/home/david/imd0030/lab08/questao04/resposta.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/var/www/html/vb",
+			"/home/david/imd0030-projeto3",
+			"/home/david/imd0030"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"target=\"dynamic\"",
+			"dynamic",
+			"MostrarFrame",
+			"open_win",
+			"MostrarFrame",
+			"orkut_logo.jpg",
+			"orkut_logo",
+			"<",
+			"<script language=\"JavaScript\" src=\"http://br.geocities.com/js_source/ygNSLib9.js?v3\"></script><script language=\"JavaScript\">yvSM=0;yvVP=0;var yvnContents='http://geocities.yahoo.com/themis/as.php?cc=br&s=382046072&l=NE&b=0&t=1255629193';yvnR='br';yfnEA(0);</script>\n<!-- text above generated by server. PLEASE REMOVE -->",
+			"fax",
+			"Início",
+			"Gerenciando Contratos",
+			"$ref",
+			"Contrato",
+			"btnAdd",
+			"novo contrato",
+			"03/11/2016",
+			"@date\t\t03/11/2016",
+			"projeto2",
+			"path_export",
+			"->second",
+			"->first",
+			"$(CC) -c $(CFLAGS) -o $@ $<",
+			"$(CC) -fPIC -c $(CFLAGS) -o $@ $<",
+			"$(CC) -c $(CFLAGS) -o $@ $<",
+			"$(CC) -fPIC -c $(CFLAGS) -o $@ $<",
+			"$(CC) -c $(CFLAGS) -o $@ $<",
+			"();\n",
+			"explode",
+			"end()--",
+			"back()",
+			"it_",
+			"(*it)->",
+			"*it",
+			"(*it_animal)->",
+			"lista",
+			"list<Animal*>",
+			"list<Pessoa*>",
+			"new",
+			"push_back",
+			"list<Animal*>",
+			"list<Pessoa*>",
+			"lista",
+			"searchAnimal",
+			"searchPessoa",
+			"searchAnimal",
+			"cout << \" ",
+			"clearEntrada",
+			"clear()",
+			"delP",
+			"searchA",
+			"aux",
+			"animais.back()->getID()+1",
+			"delPessoa",
+			"projeto2/blob/master/",
+			", veterinario, tratador,",
+			"animais.back()->getID()+1, batismo",
+			"animais->push_back(",
+			"animais->back()->getID()+1",
+			": \" << this->",
+			"veterinario, pessoas.back(),",
+			"stof(v[7]), pessoas.back(),",
+			"animais",
+			"../../include/petfera/",
+			"lista",
+			"pessoa_veterinario",
+			"venenoso",
+			"tipo_veneno",
+			"veneno",
+			"tipo",
+			"veneno",
+			"Reptil",
+			"07",
+			"Reptil",
+			"Mamifero",
+			"Anfibio",
+			"Ave",
+			"Anfibio",
+			"m_base_date",
+			"();",
+			"m_data_base",
+			"getValor",
+			"autor",
+			"Autor",
+			"autor",
+			"Livro",
+			"livro",
+			"CD",
+			"DVD",
+			"Livro",
+			"LIVRO",
+			"editora",
+			"autor",
+			"Autor",
+			"Editora",
+			"Autor",
+			"Livro",
+			"LIVRO_H",
+			"Descricao",
+			"Valor",
+			"Descricao",
+			"Valor",
+			"m_valor",
+			"m_descricao",
+			"vestuario",
+			"alimento",
+			"eletronico",
+			"\" \t",
+			"NULL",
+			"getContaPoupanca",
+			"getContaCorrente",
+			"m_contas_poupanca",
+			"m_contas_corrente",
+			"m_qtd_contas_poupanca",
+			"m_qtd_contas_corrente",
+			"getQtdContas",
+			"m_contas",
+			"ContaCorrente",
+			" = 0",
+			"valor",
+			"descricao",
+			"ContaBancaria",
+			"contabancaria",
+			"CONTABANCARIA_H",
+			"contabancaria",
+			"ContaBancaria",
+			"ContaCorrente",
+			"contacorrente"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"target=\"_blank\"",
+			"orkut_logo.png",
+			"",
+			"10/12/2016",
+			"@date\t\t10/12/2016",
+			"projeto3",
+			"path_exportar",
+			"first",
+			"$(CC) -fPIC -c $(CFLAGS) -o $@ $<",
+			"$(CC) -c $(CFLAGS) -o $@ $<",
+			"$(CC) -fPIC -c $(CFLAGS) -o $@ $<",
+			"$(CC) -c $(CFLAGS) -o $@ $<",
+			"$(CC) -fPIC -c $(CFLAGS) -o $@ $<",
+			"it->second->",
+			"it_animal->",
+			"dicionario",
+			"map<int, Animal*>",
+			"map<int, Pessoa*>",
+			"insert",
+			"map<int, Animal*>",
+			"map<int, Pessoa*>",
+			"dicionario",
+			"- ",
+			"auxiliar",
+			"id",
+			"projeto2/blob/master/include/petfera/",
+			"projeto2/blob/master/src/petfera/",
+			", veterinario!=nullptr?veterinario:0",
+			"veterinario!=nullptr?veterinario:0, tratador,",
+			"animais.back()->getID()+1, classe, batismo",
+			"animais.push_back(",
+			"animais.back()->getID()+1",
+			":\\t\" << this->",
+			"veterinario, tratador,",
+			"stof(v[7]), veterinario,",
+			"veterinario",
+			"",
+			"ReptilNativo",
+			"ReptilExotico",
+			"MamiferoNativo",
+			"MamiferoExotico",
+			"AnfibioNativo",
+			"AnfibioExotico",
+			"AveNativo",
+			"Reptil",
+			"Mamifero",
+			"Ave",
+			"m_base_date",
+			"getPreco",
+			"duracao",
+			"Duracao",
+			"duracao",
+			"DVD",
+			"CD",
+			"num_faixas",
+			"estilo",
+			"Estilo",
+			"NumFaixas",
+			"Estilo",
+			"DVD",
+			"DVD_H",
+			"Titulo",
+			"Preco",
+			"Titulo",
+			"Preco",
+			"m_preco",
+			"m_titulo",
+			"livro",
+			"dvd",
+			"cd",
+			"getConta",
+			"m_contas",
+			"m_qtd_contas",
+			"",
+			"m_valor",
+			"m_descricao",
+			"ContaCorrente",
+			"contapoupanca",
+			"CONTAPOUPANCA_H",
+			"CONTACORRENTE_H",
+			"contapoupanca",
+			"ContaPoupanca",
+			"contapoupanca",
+			"ContaCorrente",
+			"",
+			"valor",
+			"descricao",
+			"Agencia",
+			"new LinkedList<string>()",
+			"LinkedList<string>*",
+			"LinkedList<TIPO>::",
+			"TIPO",
+			"<TIPO>",
+			"TIPO",
+			"",
+			"ContaBancaria",
+			"CONTABANCARIA_H",
+			"$int",
+			"$intIdOrgao",
+			"$int",
+			"intOrgao",
+			"MÉTODO",
+			"",
+			"printHMAC",
+			"select_hash",
+			"self.__func",
+			"self.__key",
+			"track_file",
+			"hash",
+			"HMAC_OBJ",
+			"HMAC_OBJECT",
+			"MATCHES",
+			"MAC_OBJECT",
+			"ARG_PATH",
+			"hashing",
+			"hashlib.sha512",
+			"T",
+			"Vetor",
+			"VETOR_H",
+			"KEY_SESSION",
+			"Group_PUB",
+			"GROUP_PUB",
+			"DEBUG",
+			"#<",
+			"My_DH.My_PUB",
+			"My_DH.My_PVT",
+			"My_DH.Other_PUB",
+			"ALTER_PASS_DH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vb_wallpapers.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppBuilder":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "vb.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dirf",
+				"relatorios/control/exportacaodirf.php"
+			],
+			[
+				"contr",
+				"controllers/cad/ContrController.php"
+			],
+			[
+				"modulos",
+				"controllers/ModulosController.php"
+			],
+			[
+				"index",
+				"controllers/IndexController.php"
+			],
+			[
+				"solcon",
+				"controllers/mov/SolController.php"
+			],
+			[
+				"start.tpl",
+				"views/sol/start.tpl"
+			],
+			[
+				"ave",
+				"imd0030-projeto3/include/petfera/classe_ave_exotico.h"
+			],
+			[
+				"animal",
+				"imd0030-projeto3/src/petfera/animal.cpp"
+			],
+			[
+				"main",
+				"imd0030-projeto3/src/petfera/main.cpp"
+			],
+			[
+				"exportfola",
+				"folha/control/exportacaofolha.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

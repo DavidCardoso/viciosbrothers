@@ -1,0 +1,754 @@
+
+@charset "UTF-8";
+
+html, body, p, a, img,
+h1, h2, h3, h4, h5, h6,
+div, span, em, strong, br, ul, ol, li
+form, fieldset, table, input, select, label,
+abbr, acronym	{
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	--cor-cinza: #616161;
+	--cor-branca: #fff;
+	--cor-preta: #000;
+}
+
+body {
+    font-family: Arial, Helvetica, Verdana, Sans-serif;
+	font-size: 12px;
+    background: var(--cor-cinza);
+}
+
+input, select {
+	width: 200px;
+	height: 20px;
+}
+
+input[type="checkbox"] {
+	width: 15px;
+	height: 15px;
+}
+
+input[type="button"], input[type="submit"], input[type="reset"] {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.hidden	{
+	display: none;
+}
+
+#page-container	{
+	width: 890px;
+	height: 100%;
+	margin: auto;
+	background: var(--cor-cinza);
+}
+
+#main-nav	{
+	height: 50px;
+	background: var(--cor-preta);
+	color: white;
+	/*-moz-border-radius-top-left: 1.0em;
+	-moz-border-radius-top-right: 1.0em;
+	-moz-border-radius-bottom-left: 1.0em;
+	-moz-border-radius-bottom-right: 1.0em;*/
+	border-radius: 1.0em;
+	border-bottom: 2px ridge #fff;
+	border-left: 2px ridge #fff;
+}
+
+#main-nav ul	{
+	margin: 0;
+	padding: 0;
+	width: ;
+}
+
+/* IE5 MAC Hack */
+#main-nav	{
+	padding-left: 11px;
+}
+/* */
+#main-nav	{
+	padding-left: 8px;
+	overflow: hidden;
+}
+/* End Hack */
+
+#main-nav li	{
+	display: inline;
+	list-style-type: none;
+}
+
+#main-nav li a	{
+	height: 0px !important;
+	height /**/:50px; /* IE5/WIn Hack */
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	border: none;
+	color: #04cefc;
+}
+
+#main-nav a:visited	img	{
+	border: none;
+}
+
+#main-nav a	img	{
+	border: none;
+}
+.hover img	{
+	display: none;
+}
+
+#main-nav li#home,
+#main-nav li#home a,
+#main-nav li#tuto,
+#main-nav li#tuto a,
+#main-nav li#video,
+#main-nav li#video a,
+#main-nav li#wallpapers,
+#main-nav li#wallpapers a	img,
+#main-nav li#register,
+#main-nav li#register a img,
+#main-nav li#bbook,
+#main-nav li#bbook a img	{
+		margin-top: 14px;
+}
+
+/*--------------------------------Home--------------------------------------------*/
+.home #main-nav li#home a  img	{
+	display: none;
+}
+
+.home #main-nav li#home a .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.home #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.home #main-nav li#tuto a:hover  img	{
+	display: none;
+}
+
+.home #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.home #main-nav li#video a:hover  img	{
+	display: none;
+}
+
+.home #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.home #main-nav li#wallpapers a:hover  img	{
+	display: none;
+}
+
+.home #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.home #main-nav li#register a:hover  img	{
+	display: none;
+}
+
+.home #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.home #main-nav li#bbook a:hover  img	{
+	display: none;
+}
+
+.home #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+/*--------------------------------Tuto--------------------------------------------*/
+.tuto #main-nav li#home a:hover  img	{
+	display: none;
+}
+
+.tuto #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.tuto #main-nav li#tuto a  img	{
+	display: none;
+}
+
+.tuto #main-nav li#tuto a .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.tuto #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.tuto #main-nav li#video a:hover  img	{
+	display: none;
+}
+
+.tuto #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.tuto #main-nav li#wallpapers a:hover  img	{
+	display: none;
+}
+
+.tuto #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.tuto #main-nav li#register a:hover  img	{
+	display: none;
+}
+
+.tuto #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 15px;
+}
+
+.tuto #main-nav li#bbook a:hover  img	{
+	display: none;
+}
+
+.tuto #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+/*--------------------------------Video--------------------------------------------*/
+.video #main-nav li#home a:hover  img	{
+	display: none;
+}
+
+.video #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.video #main-nav li#tuto a:hover  img	{
+	display: none;
+}
+
+.video #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.video #main-nav li#video a  img	{
+	display: none;
+}
+
+.video #main-nav li#video a .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.video #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.video #main-nav li#wallpapers a:hover  img	{
+	display: none;
+}
+
+.video #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.video #main-nav li#register a:hover  img	{
+	display: none;
+}
+
+.video #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.video #main-nav li#bbook a:hover  img	{
+	display: none;
+}
+
+.video #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+/*--------------------------------wallpapers--------------------------------------------*/
+.wallpapers  #main-nav li#home a:hover  img	{
+	display: none;
+}
+
+.wallpapers #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.wallpapers #main-nav li#tuto a:hover  img	{
+	display: none;
+}
+
+.wallpapers #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.wallpapers #main-nav li#video a:hover  img	{
+	display: none;
+}
+
+.wallpapers #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.wallpapers #main-nav li#wallpapers a  img	{
+	display: none;
+}
+
+.wallpapers #main-nav li#wallpapers a .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.wallpapers #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.wallpapers #main-nav li#register a:hover  img	{
+	display: none;
+}
+
+.wallpapers #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.wallpapers #main-nav li#bbook a:hover  img	{
+	display: none;
+}
+
+.wallpapers #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+/*--------------------------------register--------------------------------------------*/
+.register #main-nav li#home a:hover  img	{
+	display: none;
+}
+
+.register #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.register #main-nav li#tuto a:hover  img	{
+	display: none;
+}
+
+.register #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.register #main-nav li#video a:hover  img	{
+	display: none;
+}
+
+.register #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.register #main-nav li#wallpapers a:hover  img	{
+	display: none;
+}
+
+.register #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.register #main-nav li#register a  img	{
+	display: none;
+}
+
+.register #main-nav li#register a .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.register #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.register #main-nav li#bbook a:hover  img	{
+	display: none;
+}
+
+.register #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+/*--------------------------------bbook--------------------------------------------*/
+.bbook #main-nav li#home a:hover  img	{
+	display: none;
+}
+
+.bbook #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.bbook #main-nav li#tuto a:hover  img	{
+	display: none;
+}
+
+.bbook #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.bbook #main-nav li#video a:hover  img	{
+	display: none;
+}
+
+.bbook #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.bbook #main-nav li#wallpapers a:hover  img	{
+	display: none;
+}
+
+.bbook #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.bbook #main-nav li#register a:hover  img	{
+	display: none;
+}
+
+.bbook #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.bbook #main-nav li#bbook a  img	{
+	display: none;
+}
+
+.bbook #main-nav li#bbook a .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.bbook #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+/* -------------------------------------fconosco---------------------------------------*/
+.fconosco #main-nav li#home a:hover  img	{
+	display: none;
+}
+
+.fconosco #main-nav li#home a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.fconosco #main-nav li#tuto a:hover  img	{
+	display: none;
+}
+
+.fconosco #main-nav li#tuto a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.fconosco #main-nav li#video a:hover  img	{
+	display: none;
+}
+
+.fconosco #main-nav li#video a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.fconosco #main-nav li#wallpapers a:hover  img	{
+	display: none;
+}
+
+.fconosco #main-nav li#wallpapers a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.fconosco #main-nav li#register a:hover  img	{
+	display: none;
+}
+
+.fconosco #main-nav li#register a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+
+.fconosco #main-nav li#bbook a:hover  img	{
+	display: none;
+}
+
+.fconosco #main-nav li#bbook a:hover .hover  img	{
+	display: inline;
+	margin-top: 14px;
+}
+/*-----------------------------------------------------------------------------------*/
+
+#header	{
+	background: black url(../images/headers/header.jpg) no-repeat right;
+	color: #6eb5d1;
+	height: 150px;
+	width: 890px;
+	/*-moz-border-radius-top-left: 1.0em;
+	-moz-border-radius-top-right: 1.0em;
+	-moz-border-radius-bottom-left: 1.0em;
+	-moz-border-radius-bottom-right: 1.0em;*/
+	border-radius: 1.0em;
+	border-bottom: 2px ridge #fff;
+	border-left: 2px ridge #fff;
+}
+
+#header img	{
+	margin-top: 35px;
+	padding-left: 15px;
+	border: none;
+	display: inline;
+}
+
+#header p	{
+	font-weight: bold;
+	font-family: Verdana, arial, serif;
+	margin: 15px 0 0 70px;
+}
+
+#corpo	{
+	background: #e1e7f2;
+	/*-moz-border-radius-top-left: 1.0em;
+	-moz-border-radius-top-right: 1.0em;
+	-moz-border-radius-bottom-left: 1.0em;
+	-moz-border-radius-bottom-right: 1.0em;*/
+	border-radius: 1.0em;
+}
+
+#corpo #content	{
+	width: 560px;
+	margin-right: 250px;
+	line-height: 18px;
+	padding: 15px; 
+}
+
+body.video #corpo #content,
+body.wallpapers #corpo #content	{
+	width: 600px;
+	margin-right: 250px;
+	line-height: 18px;
+	text-align: center;
+}
+
+#content h2 {
+    margin: 0;
+    padding: 0;
+	padding-bottom: 15px;
+}
+
+#content p {
+    margin: 0;
+    padding: 0;
+	margin-bottom: 15px;
+}
+
+#fconosco #content address	{
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+#content div.nav-wp	{
+	text-align: center;
+	margin: auto;
+}
+
+#content a:link	{
+	text-decoration: none;
+}
+
+#content a:visited	{
+	color: blue;
+	text-decoration: none;
+}
+
+#content a:hover	{
+	text-decoration: underline;
+}
+
+#content #cadastro	{
+	padding: 0;
+	margin: 0;
+}
+
+#cadastro fieldset	{
+	/*-moz-border-radius-top-left: 1em;
+	-moz-border-radius-top-right: 1em;
+	-moz-border-radius-bottom-left: 1em;
+	-moz-border-radius-bottom-right: 1em;*/
+	border-radius: 1.0em;
+	width: 100%;
+	border-color: var(--cor-branca);
+	margin-bottom: 15px;
+	padding: 15px;
+}
+
+#cadastro fieldset legend{
+	font-style: italic ;
+	color: black;
+	font-weight: bold;
+}
+
+#cadastro fieldset label	{
+	float: left;
+	width: 113px;
+	display: inline;
+	line-height: 20px;
+	font-weight: bold;
+	margin: 1px;
+	cursor: pointer;
+}
+
+#cadastro fieldset label#ltermos	{
+	float: none;
+	width: 225px;
+	display: inline;
+}
+
+#cadastro fieldset cite	{
+	padding: 0;
+	display: inline;
+}
+
+#cadastro fieldset input,	
+#cadastro fieldset input#termos,
+#cadastro fieldset select,
+#cadastro fieldset select#psecreta,
+#cadastro fieldset .btn_submit,
+#cadastro fieldset .btn_confirm	{
+	display: inline;
+	margin: 5px;
+}
+
+#sidebar-a	{
+	float: right;
+	width: 210px;
+	height: 100%;
+	border-left: 1px solid #efefef;
+	padding: 15px;
+}
+
+#sidebar-a img	{
+	border: none;
+	margin-bottom: 10px;
+}
+
+#footer	{
+	height: 30px;
+	clear: both;
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+	font-size: 10px;
+	color: #c9c9c9;
+	border-top: 1px solid #efefef;
+	padding: 13px 25px;
+	line-height: 18px;
+}
+
+#footer a	{
+	text-decoration: none;
+}
+
+#footer a:hover	{
+	text-decoration: underline;
+}
+
+#footer a:visited	{
+	color: blue;
+}
+
+#footer #altnav	{
+	width: 280px;
+	float: right;
+	text-align: right;
+	padding-right: 15px;
+}
+
+#footer #copyright	{
+	padding-left: 15px;
+}
+
+p	{
+	text-decoration: justify;
+}
+
+body.home em	{
+	float: left;
+	font: 5em arial;
+	color: white;
+}
+
+.fconosco .frame	{
+	width: 590px;
+	height: 400px;
+}
+
+.fconosco #frame	{
+	display: none;
+}
+
+.video #listavideo ul li,
+.wallpapers #listawp ul li	{
+	list-style-type: none;
+	margin-bottom: 40px;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #efefef;
+	
+}
+
+
+/* http://www.hpmachado.com.br/tutorial-de-css/  */
